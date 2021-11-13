@@ -33,3 +33,5 @@ override.tf.json
 # Все файлы, в корне и подкаталогах, .terraformrc или terraform.rc
 .terraformrc
 terraform.rc
+
+add one more line
