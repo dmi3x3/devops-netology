@@ -34,5 +34,6 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-add one more line
-add a second line
+    add one more line
+    add a second line
+    add a third line
